@@ -1,0 +1,308 @@
+body{
+    background-image: linear-gradient(green,rgb(169, 235, 166),rgb(100, 237, 207),grey);
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    margin-top:100px;
+    margin-left:80px;
+  background: #3B5998;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.a{
+    color: rgb(115, 221, 83);
+    background-color: rgb(250, 250, 250);
+    height: 65px;
+    width: 100%;
+    position: absolute;
+}
+h1{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 15px;
+    font-size: 35px;
+}
+.sign{
+    margin-top:20px ;
+    margin-left: 83%;
+    color: honeydew;
+    width: 15%;
+    display: flex;
+    
+}
+.s1{
+    height: 30px;
+    width: 40%;
+    border-radius: 30%;
+    background-color:#f55c47;
+    margin: auto;
+}
+.s1:hover{
+    color: #8c0000;
+}
+.s1 h4{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+h3{
+    margin-top: 100px;
+    margin-left: 40px;
+    font-size: 32px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(83, 129, 48) ;
+    position: absolute;
+}
+h2{
+    margin-top: 160px;
+    margin-left: 35px;
+    font-size: 55px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(241, 241, 241);
+    position: absolute;
+}
+p{
+    margin-top: 380px;
+    margin-left: 35px;
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(206, 207, 205) ;
+    position: absolute;
+}
+*{
+    margin: 0px;
+}
+ul{
+    margin-left: 30%;
+    margin-top: 20px;
+    color: green;
+    position: absolute;
+}
+li{
+    display:inline;
+    padding: 25px;
+    font-size: 20px;
+}
+li:hover{
+    background-color: rgb(154, 245, 151);
+    text-decoration:underline;
+}
+.b{
+    height: 550px;
+    width: 100%;
+    background-image: linear-gradient(60deg,rgba(37, 204, 59, 0.8) 50%,transparent 50% ),url(./how-to-make-new-things-from-waste-materials.jpeg);
+    background-size: cover;
+}
+.row2{
+    margin-left: 40px;
+    margin-top: 90px;
+    margin-bottom: 50px;
+    width:30%;
+    background-image: url(./r4.jpeg);
+    display: flex;
+    position:absolute;
+
+}
+.rr1{
+    margin-left: 520px;
+    margin-top: 120px;
+    margin-bottom: 50px;
+    width:60%;
+   display:flex;
+}
+.cc1{
+    height: 450px;
+    width: 100%;
+    background-color:white;
+}
+.c1{
+    height:250px;
+}
+img{
+    height:200px;
+    width:100%
+}
+.c2{
+    height:300px;
+    width:100%;
+}
+.c2 h6{
+    margin-left: 30px;
+    margin-top: 15px;
+    font-size: 35px;
+}
+.c4 h6{
+    margin-left: 30px;
+    margin-top: 15px;
+    font-size: 35px;
+}
+.cc3 h6{
+    margin-left:30px;
+    margin-top:15px;
+    font-size:15px;
+}
+.cc4 h6{
+    margin-left:30px;
+    margin-top:15px;
+    font-size:15px;
+}
+.B1{
+    margin-left: 30px;
+    margin-top: 15px;
+    color:white;
+    background-color:red;
+}
+.cc2{
+    height: 450px;
+    width: 100%;
+    background-color:white;
+    margin-left:5%;
+    margin-right:5%
+}
+.rr2{
+    margin-left: 500px;
+    margin-top: 90px;
+    margin-bottom: 50px;
+    width:60%;
+   display:flex;
+}
+.cc3{
+    height: 50px;
+    width: 100%;
+    background-color:yellow;
+    margin-left:5%;
+}
+.cc4{
+    height: 50px;
+    width: 100%;
+    background-color:yellow;
+    margin-left:5%;
+    margin-right:5%;
+
+}
+.r1{
+    width: 50%;
+}
+.r2{
+    width: 50%;
+}
+.col4{
+    height: 100px;
+    width: 100%;
+
+}
+.col4:hover{
+    background-color: rgba(82, 81, 80,0.6);
+    transition-duration: 1s;
+    transition-timing-function: 5s;
+}
+
+.row{
+    margin-top: 50px;
+    width:100%;
+    display: flex;
+}
+.row h2{
+    margin-top:160px;
+    margin-left:30%;
+}
+.row3{
+    margin-top: 40px;
+    margin-bottom: 100px;
+    width:100%;
+    display: flex;
+}
+.col{
+    height: 180px;
+    width: 20%;
+    margin-left:3%;
+}
+.img{
+    height: 200px;
+    width: 100%
+}
+.img:hover{
+    height: 220px;
+    width: 105%;
+    border-radius: 30%;
+}
+h5{
+    margin-top: 60px;
+    margin-left: 35px;
+    font-size: 55px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(241, 241, 241);
+}
+.img1{
+    height: 45px;
+    width:auto;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 12px;
+}
+.r{
+    margin-top: 90px;
+    width:100%;
+    display: flex;
+    background-image: linear-gradient(120deg,#bef798,rgb(167, 225, 233));   
+}
+.col5{
+    height: 400px;
+    width: 33.33%;
+}
+.col5 p{
+    font-size: 20px;
+    color: #faf2da;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+.col5 h6{
+    font-size: 18px;
+    color: rgb(31, 29, 29);
+    margin-top: 70px;
+    margin-left: 25px;
+}
+.col5 h4{
+    font-weight: normal;
+    margin-top:64px ;
+    font-size: 30px;
+}
+table{
+    margin-top: 6px;
+    height: 250px;
+    width:80%;
+}
+
+button{
+    margin-left: 100px;
+}
+.p1 img{
+    margin-top:50px;
+    margin-left:170px;
+height:50px;
+width:25%;
+}
+.a1 img{
+    margin-left:170px;
+    height:50px;
+width:25%;
+}
